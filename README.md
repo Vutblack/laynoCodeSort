@@ -44,6 +44,7 @@
    node sort.js "[ваш масив]"
 
 ## Приклади
-![{8C4A9E66-E699-43DF-A442-3F6AE4E23B38}](https://github.com/user-attachments/assets/358de029-e605-4455-8908-d61d52e9185c)
+![{9888E044-9D38-4BC1-AE13-4451C37EF956}](https://github.com/user-attachments/assets/409ff4ca-5cbd-4715-b866-21fbd912b5dd)
+
 
 
