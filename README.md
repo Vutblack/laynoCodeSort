@@ -41,7 +41,7 @@
    
 4. Виконайте команду:
    ```bash
-   node sort.js [ваш масив]
+   node sort.js "[ваш масив]"
 
 ## Приклади
 ![{8C4A9E66-E699-43DF-A442-3F6AE4E23B38}](https://github.com/user-attachments/assets/358de029-e605-4455-8908-d61d52e9185c)
